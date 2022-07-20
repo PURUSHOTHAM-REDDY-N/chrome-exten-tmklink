@@ -1,12 +1,15 @@
 *{
 
-    background:url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?w=2000)
+margin: 5px 5px 5px 5px;
+
+font-family: 'Mochiy Pop One', sans-serif;
+
 }
 
-#link{
-    background-color: aliceblue;
+#heading{
+    background-color: #ffffcd;
+    padding: 20px;
 }
-
 
 #cp{
     border-radius: 20px;
