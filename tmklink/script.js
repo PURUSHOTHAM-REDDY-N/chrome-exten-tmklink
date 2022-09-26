@@ -1,4 +1,4 @@
-let apitok = "90958f496c499bfae34829a3ca1edb3fd8e62ffb";
+let apitok = "TOKEN HERE";
 let show = document.getElementById("link");
 chrome.tabs.query({ active: true, lastFocusedWindow: true }, tabs => {
     let url = tabs[0].url;
